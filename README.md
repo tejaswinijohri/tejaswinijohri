@@ -21,7 +21,7 @@ I'm Tejaswini from India, I analyze, interpret, and transform data into useful i
 ## My Works😊
 <div class="works">
   <img src="https://github.com/tejaswinijohri/Layoffs-2023--Safest-Industries" width="260" />
-<img src="https://github.com/ruds18/ruds18/blob/main/output_bfymn0.gif" width ="260" />
+<img src="https://github.com/tejaswinijohri/Crop-analysis" width ="260" />
   <img src="https://github.com/ruds18/react-apps/blob/main/dmeop.gif" width="260" />
   </div>
 
