@@ -29,7 +29,7 @@ I'm Tejaswini from India, I analyze, interpret, and transform data into useful i
 ## Overview😎
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=theSrijan13&count_private=true&show_icons=true&theme=dark" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theSrijan13&count_private=true&show_icons=true&theme=dark" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tejaswinijohri&count_private=true&show_icons=true&theme=dark" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswinijohri&count_private=true&show_icons=true&theme=dark" width="400"></a>
 </p>
 
